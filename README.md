@@ -1,1 +1,1 @@
-# appColegioVirgen
+# Aplicación colegio "Virgen de Guadalupe"
